@@ -1,4 +1,4 @@
-package io.github.mgora.pushnotifier.api.model.login;
+package io.github.mgora.pushnotifier.client.authentication.model;
 
 public class Login {
 
